@@ -33,6 +33,7 @@ body{
     border-radius:20px;
     border:none;
     width:300px;
+    padding:10px;
 }
 .add{
     border:none;
@@ -52,45 +53,6 @@ li{
     align-items: center;
     font-size: small;
 }
-.delete{
-    margin-left:50%;
+.delete-button{
+    margin-left:auto;
 }
-/* ul li:hover {
-    background-color: gainsboro;
-  }
-.close {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    right: 0%;
-    padding: 12px 16px;
-    transform: translate(0%, -50%);
-  }
-  
-.close:hover {background: #bbb;} */
-/* .hovertext {
-    position: relative;
-    visibility:hidden;
-  }
-  .hovertext:hover {
-    content: attr(data-hover);
-    visibility:visible;
-    opacity: 0;
-    width: 25px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 5px;
-    padding: 5px 0;
-    transition: opacity 1s ease-in-out;
-
-    position: absolute;
-  
-  left: 0;
-  
-} */
-/* .hovertext:hover:before {
-    opacity: 1;
-    visibility: visible;
-  } */
-
